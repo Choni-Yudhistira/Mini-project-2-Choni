@@ -42,16 +42,21 @@ Sistem ini menggunakan 3 library yaitu:
 <img width="242" height="200" alt="image" src="https://github.com/user-attachments/assets/5d8e2eac-910c-4f6e-876c-b7bbb0ab2917" />
 
 3. Contoh Output (Lihat Data)
-<img width="312" height="269" alt="Screenshot 2026-10-06 225337" src="https://github.com/user-attachments/assets/3fb845bb-4951-473d-95f3-f08adb7ecb5c" />
+<img width="312" height="269" alt="Screenshot 2026-10-06 225337" src="https://github.com/user-attachments/assets/daee1009-ce4b-4830-9e53-f6cb5f7d3376" />
 
-4. Contoh Output (Tambah Data)
+5. Contoh Output (Tambah Data)
 <img width="288" height="177" alt="Screenshot 2026-10-06 225451" src="https://github.com/user-attachments/assets/84e42ff7-cfbd-4e9f-8e55-b8f6418da12a" />
 
-5. Contoh Output (Ubah Data)
+6. Contoh Output (Ubah Data)
 <img width="335" height="284" alt="Screenshot 2026-10-06 225722" src="https://github.com/user-attachments/assets/62d1f27c-0332-4e8a-be6a-5417f52e9b33" />
 
-6. Contoh Output (Hapus Data)
+7. Contoh Output (Hapus Data)
 <img width="269" height="241" alt="Screenshot 2026-10-06 225826" src="https://github.com/user-attachments/assets/497438ba-94c3-4f03-97d3-66529ac3842f" />
+
+8. Contoh Output (Logout)
+<img width="294" height="246" alt="Screenshot 2026-10-06 230354" src="https://github.com/user-attachments/assets/65ca4401-a0cb-4cc0-a1e0-8448b2c271f8" />
+
+
 
 
 
